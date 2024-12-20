@@ -1,0 +1,17 @@
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.exe
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.deps.json
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.runtimeconfig.json
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.dll
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.pdb
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net9.0\Telegram.Bot.dll
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleA.3A898A1B.Up2Date
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.dll
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\refint\ConsoleApp4.dll
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.pdb
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ref\ConsoleApp4.dll
